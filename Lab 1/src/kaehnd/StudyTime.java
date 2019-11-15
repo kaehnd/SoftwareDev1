@@ -25,8 +25,7 @@ public class StudyTime {
         // Create a "reference variable"/object to gather data
         // from the keyboard
         Scanner in = new Scanner(System.in);
-	
-	//adding changes to the file
+
         // Request data from the user
         System.out.print("Enter the number of credits you are taking this term: ");
         int creditsTaken = in.nextInt();
@@ -52,5 +51,7 @@ public class StudyTime {
                 + recommendedHoursHigh + " hours per week.");
 
     }
-//Adding more things to the file
+	//Adding changes to the file to test things
+    //but these are definitely different changes than before
+    //And it will be really cool
 }
