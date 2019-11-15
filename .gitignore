@@ -4,6 +4,8 @@
 out/
 META-INF/
 
+*.swp
+*.swo
 *.iml
 *.zip
 *.docx
